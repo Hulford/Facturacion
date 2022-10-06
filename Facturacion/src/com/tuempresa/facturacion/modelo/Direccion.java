@@ -13,4 +13,6 @@ public class Direccion {
 	 String municipio;
 	 @Column(length = 30)
 	 String provincia;
+	 
+	 
 }
